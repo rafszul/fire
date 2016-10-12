@@ -14,3 +14,8 @@ create an interface for potential contributors to the FIRE repo and hookup with 
 
 d3.js
 react.js
+webpack
+
+update
+
+see repo https://github.com/rafszul/REACTforFiRe
